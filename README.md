@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @dionyyy
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning VILT
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, email me at jagojuny@gmail.com
-
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
