@@ -24,6 +24,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Git Bash](https://img.shields.io/badge/-Git%20Bash-4A484C?logo=git&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 ### Databases
 
