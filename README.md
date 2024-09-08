@@ -37,9 +37,9 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionyyy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyyy&layout=compact&theme=radical)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=<your-username>&theme=radical)
+![Trophy](https://github-profile-trophy.vercel.app/?username=dionyyy&theme=radical)
 
