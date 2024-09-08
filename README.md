@@ -39,7 +39,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionyyy&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyyy&layout=compact&theme=radical)
-
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dionyyy&theme=radical)
 
