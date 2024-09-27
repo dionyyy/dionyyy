@@ -39,9 +39,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dionyyy&show_icons=true&theme=radical)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dionyyy&theme=radical&hide_border=false)<br/>
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dionyyy&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dionyyy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=dionyyy&theme=radical)
 
