@@ -1,3 +1,7 @@
+### 🌐 Socials 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juny-ben-jago) 
+[![Profile Views](https://visitcount.itsvg.in/api?id=juny-ben-jago&icon=8&color=12)](https://visitcount.itsvg.in)
+
 ### 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
